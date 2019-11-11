@@ -19,8 +19,7 @@
     "precompile": "rm -rf dist",
     "release": "semantic-release",
     "compile": "tsc",
-    "commitlint": "commitlint --from master",
-    "prerelease": "npm run documentation"
+    "commitlint": "commitlint --from master"
   },
   "repository": {
     "type": "git",
