@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const { types } = require('conventional-commit-types');
 module.exports = {
   extends: ['@commitlint/config-conventional'],
