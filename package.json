@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/bbeesley/ts-mock-constructor#readme",
   "dependencies": {
-    "intermock": "^0.1.3"
+    "intermock": "^0.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
